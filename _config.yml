@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: Page Web de ChavinJe (pour le test)
-description: Tout mes projets hébergés sur GitHub.
+remote_theme: pages-themes/hacker@v0.2.0
+title: Page Web de Jerome CHAVIN
+description: Les projets de base pour les TPs.
